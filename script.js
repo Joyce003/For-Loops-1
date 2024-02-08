@@ -27,5 +27,13 @@ for (let i = 0; i < arr.length; i++) {
 }
 
 //inside the array are 3 other arrays. [1,2] = index o [3,4] = index 1 [5,6] = index 2
+//console.log's each item in the array.
 
 //QUESTION(S): What is the purpose of for loops?
+
+//Programming with Mosh
+
+for (initialExpression)
+//The first statement is what we would call the inital exepression.
+//And here we declare an initialize variable. 
+//We use "let" to declare a variable like "i".
