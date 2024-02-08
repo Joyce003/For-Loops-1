@@ -26,4 +26,6 @@ for (let i = 0; i < arr.length; i++) {
 
 }
 
+//inside the array are 3 other arrays. [1,2] = index o [3,4] = index 1 [5,6] = index 2
+
 //QUESTION(S): What is the purpose of for loops?
