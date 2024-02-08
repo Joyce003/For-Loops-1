@@ -13,4 +13,4 @@ for(let i = 0; i <arr.length; i++) {
     console.log(arr[i]);
 }
 //let i = 0 is our initializaiton. i < 5 is our condition.
-//if is less than the length of the arrary (arr.length), we are going to continue going through the array. So once we get to the end of the array,
+//if is less than the length of the arrary (arr.length), we are going to continue going through the array. So once we get to the end of the array, we'll be done witht the for loop. At the end we're going to incerement i by 1. 
