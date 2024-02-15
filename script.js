@@ -36,4 +36,6 @@ for (let i = 0; i < arr.length; i++) {
 for (initialExpression)
 //The first statement is what we would call the inital exepression.
 //And here we declare an initialize variable. 
-//We use "let" to declare a variable like "i".
+//We use "let" to declare a variable like "i" and set it to zero.
+
+let count = 0;
